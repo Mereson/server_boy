@@ -3,14 +3,16 @@
     "id": 1,
     "title": "Product Design",
     "displayImage": "/Images/studentdashboard/How Web 3_0 will Impact Businesses_ 1.png",
-    "enrolledUsers": [],
+    "enrolledUsers": [
+      "spaceman@gmail.com"
+    ],
     "modules": [
       {
         "moduleId": 1,
         "name": "Getting Started in Product Design",
         "duration": "1:28",
         "status": "Continue",
-        "videos": "https://youtu.be/ziQEqGZB8GE?si=-VGMGWNihwN1w49U",
+        "videos": "https://www.youtube.com/embed/ziQEqGZB8GE?si=PRKGPA7vwus6JPkU",
         "content": "Understand the Problem: Begin by clearly defining the problem you want to solve or the need you want to address with your product. Research your target audience to understand their pain points, preferences, and behaviors. Market Research: Analyze the market to identify existing solutions and competitors. Understand what works well and where there are gaps or opportunities for innovation. Conceptualization: Generate ideas and concepts for your product. Brainstorming, sketching, and prototyping are common techniques to explore different possibilities. Prototyping: Create prototypes to visualize and test your ideas. Prototypes can range from simple sketches to more detailed mock-ups or functional prototypes, depending on the stage of development. User Testing: Gather feedback from potential users through usability testing and surveys. This will help you understand how people interact with your product and identify areas for improvement. Iterate and Refine: Use the feedback from user testing to refine your design. Iterate on your prototypes, making adjustments and improvements based on what you learn.",
         "quizzes": [
           {
@@ -24,7 +26,7 @@
         "name": "Introduction to User Experience",
         "duration": "8:24",
         "status": "Continue",
-        "videos": "https://youtu.be/6yN2ZG_TaGM?si=hPuudhoHAMmCIYDI",
+        "videos": "https://www.youtube.com/embed/6yN2ZG_TaGM?si=P8IOSAP02mf7jLWZ",
         "content": "Understand the Problem: Begin by clearly defining the problem you want to solve or the need you want to address with your product. Research your target audience to understand their pain points, preferences, and behaviors. Market Research: Analyze the market to identify existing solutions and competitors. Understand what works well and where there are gaps or opportunities for innovation. Conceptualization: Generate ideas and concepts for your product. Brainstorming, sketching, and prototyping are common techniques to explore different possibilities. Prototyping: Create prototypes to visualize and test your ideas. Prototypes can range from simple sketches to more detailed mock-ups or functional prototypes, depending on the stage of development. User Testing: Gather feedback from potential users through usability testing and surveys. This will help you understand how people interact with your product and identify areas for improvement. Iterate and Refine: Use the feedback from user testing to refine your design. Iterate on your prototypes, making adjustments and improvements based on what you learn.",
         "quizzes": [
           {
@@ -38,7 +40,7 @@
         "name": "Introduction to Figma",
         "duration": "4:09",
         "status": "Continue",
-        "videos": "https://youtu.be/Z-BO6IYTgJg?si=jufETe8YzobVgOY1",
+        "videos": "https://www.youtube.com/embed/Z-BO6IYTgJg?si=uMXTW-FY0Uyl_cFa" ,
         "content": "Understand the Problem: Begin by clearly defining the problem you want to solve or the need you want to address with your product. Research your target audience to understand their pain points, preferences, and behaviors. Market Research: Analyze the market to identify existing solutions and competitors. Understand what works well and where there are gaps or opportunities for innovation. Conceptualization: Generate ideas and concepts for your product. Brainstorming, sketching, and prototyping are common techniques to explore different possibilities. Prototyping: Create prototypes to visualize and test your ideas. Prototypes can range from simple sketches to more detailed mock-ups or functional prototypes, depending on the stage of development. User Testing: Gather feedback from potential users through usability testing and surveys. This will help you understand how people interact with your product and identify areas for improvement. Iterate and Refine: Use the feedback from user testing to refine your design. Iterate on your prototypes, making adjustments and improvements based on what you learn.",
         "quizzes": [
           {
@@ -80,7 +82,9 @@
   {
     "id": 2,
     "title": "Frontend",
-    "enrolledUsers": ["spaceman@gmail.com"],
+    "enrolledUsers": [
+      "spaceman@gmail.com"
+    ],
     "displayImage": "/Images/studentdashboard/ai-site-helping-with-software-production.png",
     "modules": [
       {
@@ -88,7 +92,7 @@
         "name": "Introduction to Programming",
         "duration": "3.18",
         "status": "Continue",
-        "videos": "https://youtu.be/pTB0EiLXUC8?si=r0cSXez_tuaavodG",
+        "videos": "https://www.youtube.com/embed/pTB0EiLXUC8?si=Q-8vIFmJIayEbn8X",
         "content": "Foundations: Learn basic programming concepts like variables, data types, control structures, and functions. Language Proficiency: Master a programming language(s) with a focus on syntax, semantics, and coding best practices. Problem-Solving: Develop skills in analyzing problems, designing efficient solutions, and implementing them using code. Software Development Practices: Understand methodologies like Agile, version control with Git, and writing clean, maintainable code. Project-Based Learning: Apply knowledge to real-world projects, working in teams and following the software development lifecycle.",
         "quizzes": [
           {
@@ -102,7 +106,7 @@
         "name": "Git and Version Control",
         "duration": "9.36",
         "status": "Continue",
-        "videos": "https://youtu.be/NArVyt8t-z4?si=aQGZIm8HwMtXNoZj",
+        "videos": "https://www.youtube.com/embed/NArVyt8t-z4?si=BMvMkdRzv033B3k1",
         "content": "Foundations: Learn basic programming concepts like variables, data types, control structures, and functions. Language Proficiency: Master a programming language(s) with a focus on syntax, semantics, and coding best practices. Problem-Solving: Develop skills in analyzing problems, designing efficient solutions, and implementing them using code. Software Development Practices: Understand methodologies like Agile, version control with Git, and writing clean, maintainable code. Project-Based Learning: Apply knowledge to real-world projects, working in teams and following the software development lifecycle.",
         "quizzes": [
           {
@@ -116,7 +120,7 @@
         "name": "Javascript Fundamentals",
         "duration": "8:09",
         "status": "Continue",
-        "videos": "https://youtu.be/fGdd9qNwQdQ?si=Aht4Wb1UmYbM5VHJ",
+        "videos": "https://www.youtube.com/embed/fGdd9qNwQdQ?si=VOajQCxSyTnmWrgG",
         "content": "Foundations: Learn basic programming concepts like variables, data types, control structures, and functions. Language Proficiency: Master a programming language(s) with a focus on syntax, semantics, and coding best practices. Problem-Solving: Develop skills in analyzing problems, designing efficient solutions, and implementing them using code. Software Development Practices: Understand methodologies like Agile, version control with Git, and writing clean, maintainable code. Project-Based Learning: Apply knowledge to real-world projects, working in teams and following the software development lifecycle.",
         "quizzes": [
           {
@@ -144,7 +148,9 @@
   {
     "id": 3,
     "title": "Backend",
-    "enrolledUsers": ["spaceman@gmail.com"],
+    "enrolledUsers": [
+      "spaceman@gmail.com"
+    ],
     "displayImage": "/Images/studentdashboard/How Web 3_0 will Impact Businesses_ 2.png",
     "modules": [
       {
@@ -152,7 +158,7 @@
         "name": "Introduction to Programming",
         "duration": "3.18",
         "status": "Continue",
-        "videos": "https://youtu.be/pTB0EiLXUC8?si=r0cSXez_tuaavodG",
+        "videos": "https://www.youtube.com/embed/pTB0EiLXUC8?si=Q-8vIFmJIayEbn8X",
         "content": "Foundations: Learn basic programming concepts like variables, data types, control structures, and functions. Language Proficiency: Master a programming language(s) with a focus on syntax, semantics, and coding best practices. Problem-Solving: Develop skills in analyzing problems, designing efficient solutions, and implementing them using code. Software Development Practices: Understand methodologies like Agile, version control with Git, and writing clean, maintainable code. Project-Based Learning: Apply knowledge to real-world projects, working in teams and following the software development lifecycle.",
         "quizzes": [
           {
@@ -166,7 +172,7 @@
         "name": "Git and Version Control",
         "duration": "9.36",
         "status": "Continue",
-        "videos": "https://youtu.be/NArVyt8t-z4?si=aQGZIm8HwMtXNoZj",
+        "videos": "https://www.youtube.com/embed/NArVyt8t-z4?si=BMvMkdRzv033B3k1",
         "content": "Foundations: Learn basic programming concepts like variables, data types, control structures, and functions. Language Proficiency: Master a programming language(s) with a focus on syntax, semantics, and coding best practices. Problem-Solving: Develop skills in analyzing problems, designing efficient solutions, and implementing them using code. Software Development Practices: Understand methodologies like Agile, version control with Git, and writing clean, maintainable code. Project-Based Learning: Apply knowledge to real-world projects, working in teams and following the software development lifecycle.",
         "quizzes": [
           {
@@ -180,7 +186,7 @@
         "name": "Javascript Fundamentals",
         "duration": "8:09",
         "status": "Continue",
-        "videos": "https://youtu.be/fGdd9qNwQdQ?si=Aht4Wb1UmYbM5VHJ",
+        "videos": "https://www.youtube.com/embed/fGdd9qNwQdQ?si=VOajQCxSyTnmWrgG",
         "content": "Foundations: Learn basic programming concepts like variables, data types, control structures, and functions. Language Proficiency: Master a programming language(s) with a focus on syntax, semantics, and coding best practices. Problem-Solving: Develop skills in analyzing problems, designing efficient solutions, and implementing them using code. Software Development Practices: Understand methodologies like Agile, version control with Git, and writing clean, maintainable code. Project-Based Learning: Apply knowledge to real-world projects, working in teams and following the software development lifecycle.",
         "quizzes": [
           {
@@ -216,7 +222,7 @@
         "name": "Introduction to Blockchain",
         "duration": "6:00",
         "status": "Continue",
-        "videos": "https://youtu.be/IsXvoYeJxKA?si=jjg668nmkTE7DYrW",
+        "videos": "https://www.youtube.com/embed/IsXvoYeJxKA?si=AM8jZoC7soZXWzh5",
         "content": "Foundations: Learn basic programming concepts like variables, data types, control structures, and functions. Language Proficiency: Master a programming language(s) with a focus on syntax, semantics, and coding best practices. Problem-Solving: Develop skills in analyzing problems, designing efficient solutions, and implementing them using code. Software Development Practices: Understand methodologies like Agile, version control with Git, and writing clean, maintainable code. Project-Based Learning: Apply knowledge to real-world projects, working in teams and following the software development lifecycle.",
         "quizzes": [
           {
